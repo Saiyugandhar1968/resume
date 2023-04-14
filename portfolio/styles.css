@@ -1,0 +1,159 @@
+.row{
+    background-color: black;
+    display: flex;
+    height: 88%;
+    align-items: center;
+    -webkit-text-fill-color: aliceblue;
+    padding: 5%;
+    border: 5%;
+    margin-right: 5%;
+}
+.col{
+    background-color: black;
+    flex-basis: 50%;
+}
+
+.sai{
+    background-color: black;
+    color: white;
+    font-size: 60px;
+}
+p{
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    line-height: 15px;
+
+}
+
+.e{
+    text-align: center;
+}
+.f{
+    text-align: center;
+}
+.bb{
+    float: right;
+    margin-right: 60px;
+    width: 400px;
+    height: 400px;
+}
+button{
+    width: 180px;
+    color: #000;
+    font-size: 12 px;
+    padding: 12px 0;
+    background: #fff;
+    border: 0;
+    border-radius: 20px;
+    outline: none;
+    margin-top: 30px;
+}
+.education{
+    background-color: black;
+    -webkit-text-fill-color: aliceblue;
+    padding: 5%;
+    border: 5%;
+    margin-right: 5%;
+
+}
+.edu{
+    text-align: center;
+}
+
+.d{
+    background-color: black;
+    -webkit-text-fill-color: aliceblue;
+    padding: 5%;
+    border: 5%;
+    margin-right: 5%;
+}
+.g{
+    background-color: black;
+    -webkit-text-fill-color: aliceblue;
+    padding: 5%;
+    border: 5%;
+    margin-right: 5%;
+}
+.h{
+    text-align: center;
+}
+.container{
+    width: 100%;
+    height: auto;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+.box{
+    -webkit-text-fill-color: black;
+    width: 200px;
+    height: 200px;
+    background-color: silver;
+}
+.box1{
+    -webkit-text-fill-color: black;
+    width: 900px;
+    height: 200px;
+    background-color: whitesmoke;
+}
+.boxcontainer{
+    background-color: black;
+    -webkit-text-fill-color: aliceblue;
+    text-align: center;
+}
+.contact{
+    background-color: black;
+    padding: 5%;
+    border: 5%;
+    margin-right: 5%;
+    
+}
+.details{
+    background-color: black;
+    padding:5%;
+    border:5%;
+    margin-right: 5%;
+    -webkit-text-fill-color: aliceblue;
+}
+.contacts{text-align: center;
+    font-style: italic;
+}
+.contactsbox{
+    width: 200px;
+    height: 500px;
+    background-color: lightcoral;
+
+
+}
+.aboutme{
+    width: 500px;
+    height: 500px;
+    background-color: lightgoldenrodyellow;
+}
+.containers{
+
+ display: flex;
+ flex-direction: row;
+ justify-content: space-evenly;
+}
+.aboutme{
+    -webkit-text-fill-color: #000;
+}
+.get{
+    text-align: center;
+    font-style: oblique;
+}
+  
+.contact{
+    background-color: black;
+    -webkit-text-fill-color: aliceblue;
+    padding: 5%;
+    border: 5%;
+    margin-right: 5%;
+
+}
+.con{
+    text-align: center;
+}
